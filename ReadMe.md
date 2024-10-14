@@ -5,4 +5,5 @@ Hadoopのもととなった考え、MapReduceについて起源を探り、そ�
 MapReduceの元となった論文
 [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/ja//archive/mapreduce-osdi04.pdf)
 
-#
+[collections — Container datatypes](https://docs.python.org/3/library/collections.html)
+# 利用するモジュール
